@@ -12,7 +12,7 @@ h1{
 
 h4{
     font-family: 'UnifrakturMaguntia', serif;
-    color: brown;
+    color: rgb(128, 16, 16);
     font-size: 18px;
     font-weight:bolder;
     margin: 0;
@@ -40,7 +40,7 @@ h4{
   position: absolute;
   width: 80%;
   aspect-ratio: 1 / 1;   /* forces a square */
-  background: #ffd966;
+  background: #f13a3a;
   border-radius: 50%;
   top: 50%;
   left: 50%;
