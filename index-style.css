@@ -29,9 +29,25 @@ h4{
 
 .subheader {
     display: flex;
+    position: relative;
     flex-direction: column;
     align-items: center;
     margin-bottom: 10px;
+}
+
+.subheader::before {
+  content: "";
+  position: absolute;
+  width: 80%;
+  aspect-ratio: 1 / 1;   /* forces a square */
+  background: #ffd966;
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+  margin-left: 10px;
+  margin-top: 5px;
 }
 
 
@@ -46,7 +62,7 @@ h4{
 .tab-button{
     background-color: rgb(155, 123, 34);
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     color: rgb(0, 0, 0);
     padding: 15px 32px;
     text-align: center;
