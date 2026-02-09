@@ -12,7 +12,7 @@ h1{
 
 h4{
     font-family: 'UnifrakturMaguntia', serif;
-    color: rgb(128, 16, 16);
+    color: rgb(108, 21, 21);
     font-size: 18px;
     font-weight:bolder;
     margin: 0;
@@ -50,6 +50,16 @@ h4{
   margin-top: 5px;
 }
 
+.box {
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(100, 73, 23);
+    background-color:rgb(181, 147, 74);
+    height: auto;
+    width: 1000px;
+    margin: 50px;
+    text-align: center;
+}
 
 
 /******************BUTTON CODE******************/
