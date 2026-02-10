@@ -30,9 +30,21 @@ h1{
     align-items: center; 
 }
 
+.box{
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(100, 73, 23);
+    background-color:rgb(181, 147, 74);
+    height: auto;
+    width: auto;
+    padding: 6px;
+    padding-bottom: 3px;
+}
+
 .map{
     width: 500px;
     height: auto;
+    
 }
 
 .tab-button{
