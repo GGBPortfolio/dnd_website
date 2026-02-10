@@ -42,3 +42,8 @@ function prevImage(){
     }
 
 }
+
+function mapGridClick (num){
+    currentIndex = num;
+    myImage.src = imageMapArray[currentIndex];
+}
