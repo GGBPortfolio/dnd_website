@@ -8,6 +8,7 @@ h1{
 
     font-family: 'UnifrakturMaguntia', serif;
     font-size: 50px;
+    margin-bottom: 10px;
 }
 
 p{
@@ -20,6 +21,7 @@ p{
     display: flex; 
     justify-content: center;
     align-items: center; 
+    margin: 0px;
 }
 
 .art-container {
@@ -93,6 +95,13 @@ p{
     width: 100px;
     border-radius: 5px;
     margin: 8px;
+}
+
+.tab-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
 }
 
 .tab-button{
