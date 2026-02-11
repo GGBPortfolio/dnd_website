@@ -18,8 +18,8 @@ h1{
 
 .art-container {
     display: flex; 
-    justify-content: center;
-    align-items: center; 
+    justify-content: space-evenly;
+    align-items: start; 
 }
 
 .stuff-below{
@@ -56,7 +56,10 @@ h1{
 
 .grid-container{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 800px;
+
     justify-content: center;
     align-items: stretch;
 }
@@ -75,6 +78,8 @@ h1{
     background: none;
     border: none;
 }
+
+.pic-button:hover {background-color: #3fa95b;border-radius: 5px;}
 
 .thumbnail {
     height: 100px;
