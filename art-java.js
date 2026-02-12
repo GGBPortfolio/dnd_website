@@ -81,9 +81,15 @@ function mapGridClick (num){
 
 // OTHER ART SECTION //
 
-const imageArtArray = ["images/misc_art/IMG_1054.PNG", "images/misc_art/IMG_1053.PNG", "images/misc_art/IMG_1052.PNG", "images/misc_art/IMG_1051.PNG", "images/misc_art/IMG_1050.PNG"]
+const imageArtArray = ["images/misc_art/IMG_1054.PNG", "images/misc_art/IMG_1053.PNG", "images/misc_art/IMG_1052.PNG", "images/misc_art/IMG_1051.PNG", "images/misc_art/IMG_1050.PNG",
+   "images/misc_art/Elustria RD.PNG", "images/misc_art/Barronia City.PNG", "images/misc_art/Barronia Gangs.PNG", "images/misc_art/Circos Job Board.PNG", "images/misc_art/Barronia Job Board.PNG",
+   "images/misc_art/Palomeras Job Board.jpg", "images/misc_art/magic rock.PNG", "images/misc_art/earrings.PNG", "images/misc_art/armour.PNG", "images/misc_art/conch.PNG", 
+   "images/misc_art/axe.PNG", "images/misc_art/cursed sword.PNG", "images/misc_art/Court Flags.PNG", "images/misc_art/Old House Flags.PNG", "images/misc_art/Mural 1.PNG", "images/misc_art/Mural 2.PNG", 
+   "images/misc_art/Mural 3.PNG", "images/misc_art/Mural 4.PNG", "images/misc_art/play poster.PNG", "images/misc_art/Melville Poster.PNG", "images/misc_art/pearl legion.PNG", 
+   "images/misc_art/navy poster.PNG", "images/misc_art/farm poster.PNG"
+]
 
-const artSentences = ["This hunk of a fairy is Aungus McLeoud (played by Declan Riordan)", "Mordos", "Timble", "Zellicek", "Veyron"]
+const artSentences = ["This hunk of a fairy is Aungus McLeoud (played by Declan Riordan)", "This green tiefling is Mordos Shadowstrike (played by Jake Skubish)", "This half-elf dealer is Timble Von Trimble (played by Timmy Huddle)", "This dirty, mountain-man is Zellicek Krall (played by Mark Hallman)", "This terrifying bird person is Veyron DeFalco (played by Gordon Brinkman)"]
 
 const listSizeArt = imageArtArray.length;
 let currentArt = 0;
