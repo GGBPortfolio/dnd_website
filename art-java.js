@@ -116,7 +116,7 @@ function prevArtImage(){
         sentenceB = artSentences[currentArt];
         document.getElementById("artDescription").textContent = sentenceB; 
     }
-    
+
     else {
         currentArt--; 
         myArt.src = imageArtArray[currentArt];
@@ -124,6 +124,13 @@ function prevArtImage(){
         document.getElementById("artDescription").textContent = sentenceB;
     }
 
+}
+
+function artGridClick (num){
+    currentArt = num;
+    myArt.src = imageArtArray[currentArt];
+    sentenceB = artSentences[currentArt];
+    document.getElementById("artDescription").textContent = sentenceB;
 }
 
 //TAB BUTTONS//
