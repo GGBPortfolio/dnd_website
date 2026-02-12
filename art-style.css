@@ -70,6 +70,12 @@ p{
     
 }
 
+.art{
+    width: 500px;
+    height: auto;
+    
+}
+
 .grid-container{
     display: flex;
     flex-direction: row;

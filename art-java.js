@@ -6,7 +6,10 @@ document.getElementById('loreButton').addEventListener("click",(lorePage));
 document.getElementById('nextButton').addEventListener("click",(nextImage));
 document.getElementById('prevButton').addEventListener("click",(prevImage));
 
+document.getElementById('nextArtButton').addEventListener("click",(nextImage));
+document.getElementById('prevArtButton').addEventListener("click",(prevImage));
 
+// COMBAT MAP SECCTION //
 
 const imageMapArray = ["images/maps/First Impression Tavern.png", "images/maps/Campfire 1.png", "images/maps/Campfire 2.png", "images/maps/Road 1 (copy).png", 
     "images/maps/road 2 (copy).png", "images/maps/Olburr Sootfoot big.png","images/maps/Demonic Sewer.png", "images/maps/Cpt Drum Big.png", 
@@ -76,6 +79,19 @@ function mapGridClick (num){
     sentence = mapSentences[currentIndex];
     document.getElementById("mapDescription").textContent = sentence;
 }
+
+// OTHER ART SECTION //
+
+const imageArtArray = ["images/misc_art/Angus.PNG"]
+
+const artSentences = ["This hunk of a fairy is Aungus McLeoud (played by Declan Riordan)"]
+
+const listSizeArt = imageArtArray.length;
+let currentArt = 0;
+let sentenceB = artSentences[currentArt];
+
+document.getElementById('myArt').src = imageArtArray[currentArt];
+document.getElementById("artDescription").textContent = sentenceB;
 
 
 //TAB BUTTONS//
