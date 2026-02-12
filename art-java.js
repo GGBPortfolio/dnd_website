@@ -6,8 +6,8 @@ document.getElementById('loreButton').addEventListener("click",(lorePage));
 document.getElementById('nextButton').addEventListener("click",(nextImage));
 document.getElementById('prevButton').addEventListener("click",(prevImage));
 
-document.getElementById('nextArtButton').addEventListener("click",(nextImage));
-document.getElementById('prevArtButton').addEventListener("click",(prevImage));
+document.getElementById('nextArtButton').addEventListener("click",(nextArtImage));
+document.getElementById('prevArtButton').addEventListener("click",(prevArtImage));
 
 // COMBAT MAP SECCTION //
 
@@ -50,8 +50,7 @@ function nextImage(){
     else {
         currentIndex++;
         myImage.src = imageMapArray[currentIndex];
-        console.log(listSizeMaps)
-        sentence = mapSentences[currentIndex];
+        sentence = mapSentences[currentIndex]; 
         document.getElementById("mapDescription").textContent = sentence;
     }
     
@@ -82,9 +81,9 @@ function mapGridClick (num){
 
 // OTHER ART SECTION //
 
-const imageArtArray = ["images/misc_art/Angus.PNG"]
+const imageArtArray = ["images/misc_art/IMG_1054.PNG", "images/misc_art/IMG_1053.PNG", "images/misc_art/IMG_1052.PNG", "images/misc_art/IMG_1051.PNG", "images/misc_art/IMG_1050.PNG"]
 
-const artSentences = ["This hunk of a fairy is Aungus McLeoud (played by Declan Riordan)"]
+const artSentences = ["This hunk of a fairy is Aungus McLeoud (played by Declan Riordan)", "Mordos", "Timble", "Zellicek", "Veyron"]
 
 const listSizeArt = imageArtArray.length;
 let currentArt = 0;
@@ -93,6 +92,39 @@ let sentenceB = artSentences[currentArt];
 document.getElementById('myArt').src = imageArtArray[currentArt];
 document.getElementById("artDescription").textContent = sentenceB;
 
+function nextArtImage(){
+    if (currentArt + 1 == listSizeArt){
+        currentArt = 0;
+        myArt.src = imageArtArray[currentArt];
+        sentenceB = artSentences[currentArt];
+        document.getElementById("artDescription").textContent = sentenceB; 
+
+    }
+    else {
+        currentArt++;
+        myArt.src = imageArtArray[currentArt];
+        sentenceB = artSentences[currentArt];
+        document.getElementById("artDescription").textContent = sentenceB;
+    }
+    
+}
+
+function prevArtImage(){
+    if (currentArt == 0) {
+        currentArt = listSizeArt - 1;
+        myArt.src = imageArtArray[currentArt];
+        sentenceB = artSentences[currentArt];
+        document.getElementById("artDescription").textContent = sentenceB; 
+    }
+    
+    else {
+        currentArt--; 
+        myArt.src = imageArtArray[currentArt];
+        sentenceB = artSentences[currentArt];
+        document.getElementById("artDescription").textContent = sentenceB;
+    }
+
+}
 
 //TAB BUTTONS//
 function sessionPage() { 
