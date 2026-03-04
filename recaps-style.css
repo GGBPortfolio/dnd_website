@@ -51,3 +51,14 @@ h1{
     margin: 50px;
     text-align: center;
 }
+
+.smaller-box {
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(100, 73, 23);
+    background-color:rgb(181, 147, 74);
+    height: auto;
+    width: 300px;
+    margin: 50px;
+    text-align: center;    
+}
