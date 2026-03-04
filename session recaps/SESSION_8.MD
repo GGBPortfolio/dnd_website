@@ -1,0 +1,38 @@
+<p style="text-align: center; font-size: 24px; font-weight: bold;">SESSION 8</p>
+<p style="text-indent: 2em;">After regrouping from a long rest in Flügelspitze, The Boys ventured off towards the northern cliffs said to grow the electric elderflower. On the first day of their journey, the party encountered a strange creature: A deer with abnormally long antlers, arrows in its hind leg, and a faint, greenish aura similar to the ones of the spirits the party has seen before. Artie managed to communicate with the wounded spirit telepathically and pleaded with some of the members of the party to hide it from nearby hunters. Timble and Angus were just barely able to carry it to the back of the covered wagon when the hunters bursted from the tree line onto the road. After a short, deceptive discussion, the hunters ran back into the forest. The grateful spirit bowed and parted ways with The Boys, bestowing upon them the gift of inspiration.</p>
+<p style="text-indent: 2em;"> As night fell, Mordos noticed a demonic presence watching him as he polished his horn. The party managed to capture the crafty imp but got no information out of it, save Mordos who understood all of the horrific things the fiend spoke before they rang its neck. Veyron noticed that while in the presence of the imp, the silver pentagram they had picked up before glowed red hot and vibrated. It turns out it was the same artifact his deity Vanos had used against him and his army, and the party figured that it serves as some kind of beacon to infernal beasts. After much discussion over what to do with it, they decide to keep it for the time being.</p>
+<p style="text-indent: 2em;">The next morning they decide to cut across the woods and end up in front of a small pond with strange flowers floating on the water’s surface. Some decided to wade through it, some went around the banks, while others flew over to avoid this suspicious flora; However, one by one they all fell prey to their sleep-inducing spores. They all wake up after a few hours and take turns sharing their prophetic dreams, while also collecting a few samples for future endeavors. Their dreams allude to a future tied to their pasts.</p>
+<p style="text-indent: 2em;">That night, as he took first watch, Hack decided to attune to his new weapon. He discovered that something was indeed amiss with this crustacean-like blade as it began to talk to him telepathically. The choir of intense whispers reminded him of the dream he had around the lily pond. The sword does not identify itself but it does offer Hack a deal: in exchange for feeding it blood daily, it will grow stronger and help him achieve his dreams. Hack agrees and the blade retracts, cutting his hand slightly. </p>
+
+<p style="text-indent: 2em;">
+The party arrived at the forest that surrounds the area that Bulder Ross had pointed out to them. Before they breached out into the open, they came across a wounded messenger named Zushii. They were able to heal him before he passed out; grabbing a note from his person and force-feeding him a psychedelic flower petal. The note was written to someone named Prysm, reporting on the number of Red Raven pirates, the cargo they were hauling, and the fact that they couldn’t find their captain, Crowley Thorn. After reading the letter, Hack remembered that name — a childhood friend who ran his gang back in Starmire. After talking to some local fauna, Zelliceck determined that the beach was safe to explore. They walked out of the woods and into what appeared to be the ruins of a seaside town. After doing a little investigating, flower picking, and “sand castle” building, the party discovered a few things.
+</p>
+
+<p>- The town used to be of the Enya Clan since their sigils were carved into the stone pillars of some of the still-standing ruins.</p>
+<p>- The Red Ravens had made their camp here many times, using the buildings for shelter and cover as they sifted through their plundered goods. Some of which might include strong teas, which are a high commodity in Elustria.</p>
+<p>- This pirate group seems to be attacking cargo ships from all over the place before dumping the useless bits here. The campfires there are no older than a few hours.</p>
+
+
+<p style="text-indent: 2em;">After turning the place over, the party returned to Zelliceck and Zushii the messenger who had awakened. Angus' spell charmed the now reformed man after having had prophetic dreams of his own. He was easily convinced to spill the beans on who he is and what he was doing there. He works for a man named Prysm Talbot, the supposed leader of the Electric Coyote Band. Although they had started off as a gang on the outskirts of Barronia, it seems like the top brass want to shift into the protection industry and information trade. He had been tasked by his contact to track down the Red Ravens’ hideout and their captain to see if they might be able to ambush them and steal what they believe to be magical weapons from Avilon. After wilfully spilling the beans to The Boys, Zushii struck a deal with most of the party. In exchange for telling them who to deliver the letter to, Mike Ontackt, a bus boy at the Tipsy Troll Inn, he asked if the party would let grab his family from Barronia to move to New Wyrmheart. </p>
+<p style="text-indent: 2em;">After striking this deal with the party, Hack began to hear the many voices again in his head before the sword demanded that he draw blood for his daily meal. Hack goes to cut Zushii’s arm off but Angus manages to pull him out of the way. After a heated argument amongst the party, Hack told the sword that there’s nothing he could do. The blade goes hungry that night as Zushii leaves to retrieve his family from Barronia. </p>
+<p style="text-indent: 2em;">The next day, The Boys arrived at a giant, mysterious willow tree on their way back from the Red Ravens’ hideout. Artie ran in to investigate before Zellicek could tell her to stop. He had Pooter chase after her and saw that she was investigating something of a spiritual nature. Underneath the giant willow tent was a tree stump with glowing green runes carved into its bark. Embedded at the top of the stump was the Wailing Willow’s Will, a mysterious executioner greataxe that was protected by animated roots and vines. Semaj tried his best to pull it out but to no avail. Suddenly, the apparition of a moss covered samurai stepped forth from within the willow tree and challenged the earth genasi to a duel. In exchange for an honorable death, the mystical ax would be his. After a very close battle, Semaj lobbed off the spirits head and claimed the magical weapon as his own. He spent the night looking over the Wailing Willow, learning of its capabilities and discovering that there are holes missing gem stones. He was so engrossed by his new toy that he had not realized that Hack was focused on his own. The aarakocra was told by his sword to go feed him, so he vanished into the woods to have the blade feast on a rabbit. It was satiated, for the moment, and demanded that his next meal be “bigger.”</p>
+<p style="text-indent: 2em;">The next morning, the group encountered a blind, old kenku by the name of Featherbottom. He stood there on the side of the road offering gifts to those who could answer his riddles. Angus showed his wits heavy handedly on the first two, but the whole party was stumped by the third riddle. In the end, they still received a prize, a small pouch of Serenity Lotus Tea, and the party was told that they might see him again on the road someday. </p>
+<p style="text-indent: 2em;font-weight: bold;">Days until the Royal Decree: 9</p>
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+

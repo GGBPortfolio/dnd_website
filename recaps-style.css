@@ -91,3 +91,7 @@ h1{
 
 .sesh-button:hover {box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)}
 .sesh-button:hover {background-color: #3fa95b;color: rgb(1, 68, 20);}
+
+.sesh-text{
+    margin: 10px;
+}

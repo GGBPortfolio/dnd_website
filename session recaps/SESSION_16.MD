@@ -1,0 +1,19 @@
+<p style="text-align: center; font-size: 24px; font-weight: bold;">SESSION 16</p>
+<p style="text-indent: 2em;">The battle raged on as the hags used their magic to raise hoards of the undead lying in wait under the murky swamp water. It was a hard fight, with Bubbly Bob joining as an unlikely enemy, but they came through victorious as Hack finished off the night hag with his cursed sword; Happy to have been fed at last. The party managed to save two out of the three women being held captive, as well as restraining the other hag on the brink of death. Angus went in to investigate the half burnt hut and discovered a short note written by Sakura, supposedly Conrad’s contact: </p>
+<p style="text-indent: 2em;">“Caught up at the moment. Will come through with payment for the women as long as they are unharmed as we discussed”</p>
+<p style="text-indent: 2em;">The Boys began interrogating her for information in regards to the kidnappings and the note. She fessed up and told them that Ian, a man wearing a pentagram necklace, had paid them in exchange for getting rid of some of his call girls. He would let them know in advance what address they would go to and told them to turn into Lady Myrathel so that they would trust them. The hags agreed because they would use some of the women as sacrifices for their rituals and deliver the bones to Ian. Sakura met with them later and seemed to have forced the two powerful hags into a deal. She would pay for any druid woman that they would kidnap from Ian. The party went on to ask about a bunch of unrelated leads, such as the whereabouts of Melville Barrett. Although she did not know about the bounty on the royal family member, she did tell them a little bit about the Moon Tower; The mysterious building they had encountered on their travels about a month ago. She told them that this tower had been around for well over 200 years, and was known for traveling from place to place every three nights. As her usefulness became scarce, Mordos drove a blade through her mouth.</p>
+<p style="text-indent: 2em;">The party then turned their attention to the two prostitutes still tied up to the fence. They remember having been sent out by Ian to do house calls, which was rare for the druid workers. They were surprised to see Lady Myrathel waiting for them, and after that everything else was a blur. They spoke of how Myrathel was adamant on keeping them in since the disappearances began, but Ian wouldn’t allow it; Even though they said she was to become part owner soon. They knew that she would be sad over the death of her best friend, Annalyth, one of Bubbly Bob’s victims. The party introduced the two to Artie, and as she transformed right before their eyes, they both bowed in respect. They asked what that was about, and realized that they believe in the Three Child Prophets said to bring about great change; An ancient tale passed down from druid to druid. </p>
+<p style="text-indent: 2em;">After some discussion, the group decided to bring the two of them to Conrad so that they may be escorted to the safety of a druid coven. When they arrived there later that night, they were just about ready to close up. They explained the situation to Conrad and he had them taken over to his house for safekeeping until he could get in contact with his man in the Silverhoods. Before they left to rest for the night, they showed Conrad the note they had seen from Sakura, but he had no idea what else she had going on as a bounty hunter. They also asked him how things were going with Eddie and the Electric Coyote Band. He told them that they were starting to bring in their own security to keep an eye on things, but nothing more had changed since they last met. And with that, The Boys finally lay to rest after a long day in Barronia. </p>
+<p style="text-indent: 2em; font-weight: bold;">Days Until the Royal Decree: 2</p>
+
+
+
+
+
+ 
+
+
+
+
+
+
