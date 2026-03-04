@@ -40,3 +40,14 @@ h1{
 
 .tab-button:hover {box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)}
 .tab-button:hover {background-color: #3fa95b;color: rgb(1, 68, 20);}
+
+.box {
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(100, 73, 23);
+    background-color:rgb(181, 147, 74);
+    height: auto;
+    width: 1000px;
+    margin: 50px;
+    text-align: center;
+}
