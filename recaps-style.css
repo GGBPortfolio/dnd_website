@@ -16,6 +16,12 @@ h1{
     align-items: center; 
 }
 
+.lore-container{
+    display: flex; 
+    justify-content: space-evenly;
+    align-items: start;
+}
+
 .tab-row{
     display: flex;
     align-items: center;
@@ -53,12 +59,35 @@ h1{
 }
 
 .smaller-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
     border: solid;
     border-radius: 10px;
     border-color: rgb(100, 73, 23);
     background-color:rgb(181, 147, 74);
     height: auto;
-    width: 300px;
+    width: 400px;
     margin: 50px;
     text-align: center;    
 }
+
+.sesh-button{
+    background-color: rgb(155, 123, 34);
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    padding: 15px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 8px;
+    cursor: pointer;
+}
+
+.sesh-button:hover {box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)}
+.sesh-button:hover {background-color: #3fa95b;color: rgb(1, 68, 20);}

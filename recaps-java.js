@@ -6,21 +6,21 @@ document.getElementById('loreButton').addEventListener("click",(lorePage));
 
 
 
-const textFiles = ["test.txt", "test2.txt", "teat3.txt"];
+const textFiles = ["session recaps/SESSION_1+2.md", "session recaps/SESSION_3.md", "session recaps/SESSION_4.MD"];
 const output = document.getElementById("output");
 let specificSesh = 0;
 
 fetch(textFiles[specificSesh])
      .then(res => res.text())
      .then(text => {
-          output.innerHTML = "<h3>" + text + "</h3>";
+          output.innerHTML = "<p>" + text + "</p>";
      });
 
    function seshGridClick(num){
      fetch(textFiles[num])
      .then(res => res.text())
      .then(text => {
-          output.innerHTML = "<h3>" + text + "</h3>";
+          output.innerHTML = "<p>" + text + "</p>";
      });
    }  
 
