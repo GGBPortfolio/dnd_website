@@ -20,13 +20,14 @@ h1{
     display: flex; 
     justify-content: space-evenly;
     align-items: start;
+    margin-top: 0px;
 }
 
 .tab-row{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
 }
 
 .tab-button{
@@ -41,6 +42,7 @@ h1{
     font-size: 16px;
     font-weight: bold;
     margin: 10px;
+    margin-bottom: 0px;
     cursor: pointer;
 }
 
