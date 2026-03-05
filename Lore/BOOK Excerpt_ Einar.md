@@ -1,0 +1,31 @@
+TITLE: **Einar The Clever; Saviour of the New World**  
+Author: **Einar Hooflefoot**
+
+**DAY 1**  
+This section of the book talks about Einar’s traumatic childhood. He is originally from a remote village north of what is now known as Palomeras. His parents died due to a terrible drought in the region, leaving him with his grandfather. There isn’t much detail about him other than the farm work he was taught and that he loved him. This was followed by “an event that shaped the course of his destiny.” His village was caught between two factions that would later become one under the Farfalleon Shogunate. The faction to the east hired demon worshippers to terrorize the other faction’s territory. They targeted his village, and his grandfather died saving him.
+
+At the tender age of 12, Einar managed to make his way to the Mitsutake Nation, located where Circos now is. He talks about the war-torn lands that he had to trek through to make it there; Sprinkling in the different travelers he met trying to go to the same place. The Mitsutake Nation, founded by a nameless wizard clad in silver, became a legend amongst the people of Kodokuna (Old Elustria). A city made up of refugees running from all the warring houses that ruled the lands with impunity. This place became a beacon of hope to many, including Einar.
+
+**DAY 2**  
+After finally arriving at the refugee haven, Einar describes how shocked he was by the place. In his dreams he imagined a giant city with walls piercing the skies so that the ills of the world could never reach them. He couldn’t believe his eyes when he saw that there was no wall, there were maybe one or two actual buildings, and most of the inhabitants and stores operated out of their own wagons. He couldn’t believe that this was the place he had fought so desperately to find. Even so, he tells the reader that he learned to love it.
+
+After hopping around from place to place for a good night’s rest, Einar eventually caught the eye of **Bartholomew Avilos**; an experienced wizard who had made his way from the southwest of the country. He operated a magical craft wagon on the very outskirts of town, and he offered the young Einar a chance at “bettering himself.” Einar was nervous at first. Hanging around a dingy wagon right on the edge of the unsettling woods. However, Bartholomew’s magical contraptions and spells tempered his fears and showed him the wonders of **weave control**.
+
+**DAY 3**  
+He goes into immense detail about the community of the Mitsutake Nation. People from all over Old Elustria, bringing their own ideas and innovations to the table to better serve the community. They were governed by themselves; A council made up of selected delegates from each sector of the up-and-coming village. One of which was his mentor, Bartholomew, who was the well-versed magic user of the village. He remembers attending some of the council meetings to take notes for Bartholomew, and that is where he met a young **Otto Barrett**; A merchant of common and luxury goods. His connections for someone hiding out in a fancy refugee camp astounded Einar. He admired the industrious Barrett, and in a way he knew that he would lead the village to greatness.    
+**DAY 4**  
+Einar became a partner in Bartholomew’s business when he turned 18, and this marked the beginning of his communal endeavours. He used his magic to help build the walls and buildings he felt were missing in the Mitsutake Nation. He slowly but surely became a pillar in the community and was even able to get himself on the Mitsutake Council. Einar recounts working closely with Otto Barrett and his new assistant, Zurvan; Slowly developing a relationship with the future king. Although they don’t take their words to heart just yet, this is when they first started talking about a brighter future if all houses were one. All seems well until tragedy strikes.
+
+On one of his expeditions into the vast wilderness, Bartholomew was confronted by a platoon of terrifying Druids. While he was innocently studying ruins of an old Druid coven, they killed him. He valiantly stood his ground, taking down many, but they eventually overwhelmed him. They didn’t even leave a body for Einar to bury. He claims they ate him as per Druid tradition. This sparked worry amongst the council members, namely Otto and Zurvan. Einar recalls conversations with them going on until the wee hours of the night; Discussions about the future of their village as it grew, how to best protect themselves, and how to rally the refugee population.
+
+**DAY 5**  
+As the village grew into a small city, the Mitsutake Nation garnered the attention of some of the Old Houses in the area. They were starting to be seen as threats to their claims, leading to conflict. Having foreseen this, Otto and Einar had started building magical tools and weapons for the city, and encouraged the council to start a militia. This deterred houses like the Enya, Oni, and Ahanjoo from freely pillaging and kidnapping.  
+
+He remembers Otto and Zurvan being close to those running the city’s militia and filling their hearts with determination; **“You must bolster your forces and might to defend our way of life. To protect us from the tyranny that surrounds us. To light the way for all those downtrodden by those too weak to care for the weak.”** Einar was enamoured by the way Otto Barrett could command a crowd. He was good at rallying the people, and eventually he was seen as the chosen spokesperson for the council.
+
+**DAY 6**  
+After some attacks from the Oni and Ahanjoo Clans on the outskirts of their city, the people of the Mitsutake Nation became more worried about possible invasions. Einar and Zurvan warned the city of the inevitable attacks, and slowly but surely more on the council began to see their line of logic. He remembers Barrett giving an empowering speech in front of the council about protecting their way of life from these aggressors.
+
+**“We cannot allow those who made us run from our homes to bully us further. These tyrants enslave, torture, even sacrifice their own people to achieve their wicked desires. We cannot stand for them to take another inch. We must show them the error of their ways. One way or another.”**
+
+**MORE TO COME. . .**
