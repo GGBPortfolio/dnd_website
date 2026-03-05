@@ -10,5 +10,32 @@
     <div class="top-container">
         <h1>Letters and Lore</h1>
     </div>
+
+    <div class="tab-row">
+        <button class="tab-button" id="homeButton">Home Page</button>
+        <button class="tab-button" id="artButton">Art</button>
+        <button class="tab-button" id="mapButton">Map of Elustria</button>
+        <button class="tab-button" id="sessionButton">Session Recaps</button>
+    </div>
+
+    <div class="lore-container">
+        
+        <div class="smaller-box">
+            <button class="sesh-button" onclick="loreGridClick(0)">Session 1 & 2</button>
+            <button class="sesh-button" onclick="loreGridClick(1)">Session 3</button>
+            <button class="sesh-button" onclick="loreGridClick(0)">Session 1 & 2</button>
+            <button class="sesh-button" onclick="loreGridClick(1)">Session 3</button>
+            <button class="sesh-button" onclick="loreGridClick(0)">Session 1 & 2</button>
+            <button class="sesh-button" onclick="loreGridClick(1)">Session 3</button>
+            <button class="sesh-button" onclick="loreGridClick(0)">Session 1 & 2</button>
+            <button class="sesh-button" onclick="loreGridClick(1)">Session 3</button>
+        </div>
+        
+        <div class="box">
+            <div id="output" class="sesh-text"></div>
+        </div>
+    </div>
+
+    <script src="lore-java.js"></script>
 </body>
 </html>
