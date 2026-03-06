@@ -76,6 +76,16 @@ h1{
     text-align: center;
 }
 
+.script-box {
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(100, 73, 23);
+    background-color:rgb(181, 147, 74);
+    height: auto;
+    width: 1000px;
+    margin: 50px;
+}
+
 .smaller-box {
     display: flex;
     flex-direction: row;

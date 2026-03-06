@@ -23,6 +23,13 @@ fetch(textFiles[specificSesh])
    }  
 
 
+   fetch("Lore/Grand Barrett Palace_ Emergency Court Meeting.md")
+  .then(response => response.text())
+  .then(text => {
+    document.getElementById("content").innerHTML = marked.parse(text);
+  });
+
+
 //TAB BUTTONS//
 function artPage() { 
     window.location.href = "art.html";
