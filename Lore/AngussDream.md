@@ -1,0 +1,5 @@
+As you cross the fog, you find yourself wading through the thick undergroth of dense forest. The branches and vines seem to twist and morph ot the rhythm of your every breath. The light there is scarce until you reach what seems to be the edge of the woods. Sunlight breaks as you cross the threshold, and as your eyes adjust you hear a roaring crowd. You see thousands gathered in front of the steps of a giant temple. The red and black flags they wave are a stark contrast to the blueish-grey masonry surrounded by the earthy green of their surroundings.
+
+At the top of the stairs are knights in formation, their armor a mix of both samurai and medieval influence. Behind them is a palanquin carried on the backs of owlbears. The drapery is opaque enough to see a small figure slowly begin to raise their hands. As this happens, you feel a tug on your arms and legs as the vines of the forest you traversed pull you back into the darkness.
+
+You suddeny wake up.

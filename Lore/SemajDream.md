@@ -1,0 +1,5 @@
+You find yourself clad in armor and weapons unfamiliar to yours. You seem to be in the middle of a batle, but to your surprise you can hear the roar of cheering all around you. For every faceless enemy you manage to take down, the crowd you can't see gets louder and louder. For every kill your strange greataxe brings, the more elated you feel. As you feel the warm blood paint your flesh with each mighty swing, you also begin to hear footsteps shake the ground. It gets to a point where sound fo each step drowns out the crowd and the sounds of combat. 
+
+You turn to look at its source, between the many faceless combatants going at one another, and you notice one towering over the rest. You can't tell who it is that slowly approaches you, but you have a strange feeling that you recognize them.
+
+You suddenly wake up.

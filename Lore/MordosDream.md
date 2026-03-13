@@ -1,0 +1,5 @@
+As the fog clears you see the glistening sea of Marble City. You turn around to see the city proper and standing before you is a faceless woman. She only seems familiar to you now through feelings ot warmth and comfort. She takes you by the hand and leads you into the city. You bob and weave through dingy alleys to nicely paved streets and find yourself in front of an all to familiar restaurant. She tries to take you in but you are stopped in your tracks. You see her let go of your hand as the doors swing open. The woman walks into the arms of a faceless, old man. He's wearing a green and black striped suit with many rings and bracelettes. The biggest ring stands out to you: a crest with a pickaxe and a chisel.
+
+You try your best to reach out for her, but a pair of grey, effeminate hands appear from behind you. They rub your arms sensually. They feel cold to the touch as the restaurant, and the rest of the world, is engulfed in flames.
+
+You suddenly wake up.

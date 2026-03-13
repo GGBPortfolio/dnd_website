@@ -1,0 +1,5 @@
+You see nothing but a void of white around you. You stand there perplexed by the surroundings until you take a step forward and feel the drag of heavy snowfall up to your knees. Suddenly you hear a raging blizzard all around you. You feel snow pelt you in the face. You squint to catch your bearings when you hear a large creature wailing behind you. As you turn to face that mysterious noise, a snowy landscape appears before you. It is baren with mountains in the distance, and in front of you is a hunting party. They are in the middle of cuting down a wailing wyvern.
+
+You hail them once they manage to slay the beast. They do not seem happy to see you, and start launching their spears in your direction. You turn to run from where you came but all you see is a cliff face with a perfectly square door in it. Nowhere else to go, you rush in as you hear the men yelling behind you. The deeper into the smooth surfaced corridor, the more you start to see a faint, red light at the end. You try to reach the source but the hallway is too long, and the walls close in on you.
+
+You suddenly wake up.

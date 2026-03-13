@@ -1,0 +1,5 @@
+You emerge from the fog looking up at an ash cloud-filled sky. Flying out of the mouth of a volcano, your body seems to be whisked away by the rising heat. You fly down the mountain side, past foggy, burnt forests into great plains of wheat and grain. Your body glides along the surface of tended earth and crosses choppy seas. On the horizon you see a tall, glistening city with cloud-piercing mountains behind it. You fly throught he tall, floating towers of the city and approach this mountain. You bob and weave every petruding rock and stone until you enter a dark mine shaft at incredible speed. Right before you enter you see an old, redish goblin with an eye patch and a hook.
+
+He points into the cave as you fly past him. The tunnel is dark, but you slowly approach a source of light. As it gets closer and closer you begin to make out the details as you hear a maniacle laughter. It is a laughing skull, engulfed in flames, with a necklace of eyes around its severed head. The laughter rings in your ears as you fly into the back void of its mouth.
+
+You suddenly wake up.

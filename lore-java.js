@@ -3,7 +3,7 @@ document.getElementById('mapButton').addEventListener("click",(mapPage));
 document.getElementById('homeButton').addEventListener("click",(homePage));
 document.getElementById('sessionButton').addEventListener("click",(sessionPage));
 
-const textFiles = ["Lore/Deco's Backstory.md", "Lore/Gordon's backstory.md", "Lore/Timmy's Backstory.md", "Lore/Jake Backstory First Draft.md", "Lore/James' Backstory.md", "Lore/Mark's Backstory.md", "Lore/Pierce Backstory.md"];
+const textFiles = ["Lore/Deco's Backstory.md", "Lore/Gordon's backstory.md", "Lore/Timmy's Backstory.md", "Lore/Jake Backstory First Draft.md", "Lore/James' Backstory.md", "Lore/Mark's Backstory.md", "Lore/Pierce Backstory.md", "Lore/SemajDream.md", "Lore/AngussDream.md", "Lore/HackDream.md", "Lore/MordosDream.md", "Lore/TimbleDream.md", "Lore/VeyronDream.md", "Lore/ZellicekDream.md"];
 
 const output = document.getElementById("output");
 let specificSesh = 0;
@@ -14,16 +14,28 @@ fetch(textFiles[specificSesh])
           output.innerHTML = "<p>" + text + "</p>";
      });
 
-   function loreGridClick(num){
+
+     //OLD Function still here for the first few buttons (LAZY, FIX LATER)//
+function loreGridClick(num){
      fetch(textFiles[num])
      .then(res => res.text())
      .then(text => {
           output.innerHTML = "<p>" + text + "</p>";
      });
    }  
+//NEW FUNCTION, converts .md to html//
+function newGridClick(num){
+     fetch(textFiles[num])
+     .then(response => response.text())
+     .then(text => {
+     document.getElementById("output").innerHTML = marked.parse(text);
+  }); 
+}
 
+   
 
-   fetch("Lore/Grand Barrett Palace_ Emergency Court Meeting.md")
+///TESTING TO MOVE LATER///
+   fetch("Lore/CROWN Charts & MAGIC SHOPPE.md")
   .then(response => response.text())
   .then(text => {
     document.getElementById("content").innerHTML = marked.parse(text);
