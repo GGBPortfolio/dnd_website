@@ -74,6 +74,9 @@ h1{
     width: 1000px;
     margin: 50px;
     text-align: center;
+
+    max-height: 530px;
+    overflow-y: auto;
 }
 
 .script-box {
