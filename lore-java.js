@@ -3,7 +3,7 @@ document.getElementById('mapButton').addEventListener("click",(mapPage));
 document.getElementById('homeButton').addEventListener("click",(homePage));
 document.getElementById('sessionButton').addEventListener("click",(sessionPage));
 
-const textFiles = ["Lore/Deco's Backstory.md", "Lore/Gordon's backstory.md", "Lore/Timmy's Backstory.md", "Lore/Jake Backstory First Draft.md", "Lore/James' Backstory.md", "Lore/Mark's Backstory.md", "Lore/Pierce Backstory.md", "Lore/SemajDream.md", "Lore/AngussDream.md", "Lore/HackDream.md", "Lore/MordosDream.md", "Lore/TimbleDream.md", "Lore/VeyronDream.md", "Lore/ZellicekDream.md"];
+const textFiles = ["Lore/Deco's Backstory.md", "Lore/Gordon's backstory.md", "Lore/Timmy's Backstory.md", "Lore/Jake Backstory First Draft.md", "Lore/James' Backstory.md", "Lore/Mark's Backstory.md", "Lore/Pierce Backstory.md", "Lore/SemajDream.md", "Lore/AngussDream.md", "Lore/HackDream.md", "Lore/MordosDream.md", "Lore/TimbleDream.md", "Lore/VeyronDream.md", "Lore/ZellicekDream.md", "Lore/A Message from Glassya.md", "Lore/newGlasyaMessage.md"];
 
 const output = document.getElementById("output");
 let specificSesh = 0;
