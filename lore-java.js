@@ -16,6 +16,15 @@ fetch(textFiles[specificSesh])
           output.innerHTML = "<p>" + text + "</p>";
      });
 
+const output2 = document.getElementById("output2");
+let specificSesh2 = 16;
+
+fetch(textFiles[specificSesh2])
+     .then(res => res.text())
+     .then(text => {
+          document.getElementById("output2").innerHTML = marked.parse(text);
+     });
+
 
      //OLD Function still here for the first few buttons (LAZY, FIX LATER)//
 function loreGridClick(num){
