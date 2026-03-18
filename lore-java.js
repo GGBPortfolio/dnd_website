@@ -3,7 +3,9 @@ document.getElementById('mapButton').addEventListener("click",(mapPage));
 document.getElementById('homeButton').addEventListener("click",(homePage));
 document.getElementById('sessionButton').addEventListener("click",(sessionPage));
 
-const textFiles = ["Lore/Deco's Backstory.md", "Lore/Gordon's backstory.md", "Lore/Timmy's Backstory.md", "Lore/Jake Backstory First Draft.md", "Lore/James' Backstory.md", "Lore/Mark's Backstory.md", "Lore/Pierce Backstory.md", "Lore/SemajDream.md", "Lore/AngussDream.md", "Lore/HackDream.md", "Lore/MordosDream.md", "Lore/TimbleDream.md", "Lore/VeyronDream.md", "Lore/ZellicekDream.md", "Lore/A Message from Glassya.md", "Lore/newGlasyaMessage.md"];
+const textFiles = ["Lore/Deco's Backstory.md", "Lore/Gordon's backstory.md", "Lore/Timmy's Backstory.md", "Lore/Jake Backstory First Draft.md", "Lore/James' Backstory.md", "Lore/Mark's Backstory.md", "Lore/Pierce Backstory.md", "Lore/SemajDream.md", "Lore/AngussDream.md", "Lore/HackDream.md", "Lore/MordosDream.md", "Lore/TimbleDream.md", "Lore/VeyronDream.md", "Lore/ZellicekDream.md", "Lore/A Message from Glassya.md", "Lore/newGlasyaMessage.md",
+     "Lore/Town Crier News BARRONIA.md"
+];
 
 const output = document.getElementById("output");
 let specificSesh = 0;
@@ -24,6 +26,7 @@ function loreGridClick(num){
      });
    }  
 //NEW FUNCTION, converts .md to html//
+//DREAMS & PREMONITIONS//
 function newGridClick(num){
      fetch(textFiles[num])
      .then(response => response.text())
@@ -32,6 +35,14 @@ function newGridClick(num){
   }); 
 }
 
+//EVENTS & ANNOUNCEMENTS//
+function newGridClick2(num){
+     fetch(textFiles[num])
+     .then(response => response.text())
+     .then(text => {
+     document.getElementById("output2").innerHTML = marked.parse(text);
+  }); 
+}
    
 
 ///TESTING TO MOVE LATER///
