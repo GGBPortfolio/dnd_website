@@ -81,8 +81,8 @@ h1{
     margin: 50px;
     margin-top: 15px;
     text-align: center;
-
-    max-height: 600px;
+    
+    height: 600px;
     overflow-y: auto;
 }
 
