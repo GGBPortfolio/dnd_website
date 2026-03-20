@@ -29,6 +29,8 @@ p{
     justify-content: center;
     align-items: center; 
     margin: 0px;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 .art-container {
@@ -44,6 +46,7 @@ p{
     align-items: center;
     margin-bottom: 10px;
     margin-right: 20px;
+
 }
 
 .button-flex{
@@ -65,8 +68,7 @@ p{
 
 .map{
     width: 500px;
-    height: auto;
-    max-height: 450px;
+    height: 350px;
     
 }
 
@@ -83,9 +85,11 @@ p{
     flex-wrap: wrap;
     max-width: 800px;
     min-width: 550px;
+    max-height: 480px;
 
     justify-content: center;
     align-items: stretch;
+    overflow-y: auto;
 }
 
 .grid-box{
