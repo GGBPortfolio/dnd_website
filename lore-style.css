@@ -91,7 +91,7 @@ h1{
     border-color: rgb(100, 73, 23);
     background-color:rgb(181, 147, 74);
     height: auto;
-    width: 1000px;
+    width: auto;
     margin: 50px;
     margin-top: 15px;
     height: 600px;
@@ -119,6 +119,7 @@ h1{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
     border: solid;
     border-radius: 10px;
     border-color: rgb(100, 73, 23);
@@ -127,6 +128,7 @@ h1{
     margin: 50px;
     margin-bottom: 10px;
     margin-top: 15px;
+    width: 1000px;
 }
 
 .sesh-button{
@@ -144,6 +146,9 @@ h1{
     margin: 8px;
     cursor: pointer;
 }
+
+.sesh-button:hover {box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)}
+.sesh-button:hover {background-color: #3fa95b;color: rgb(1, 68, 20);}
 
 .lore-text{
     margin: 10px;
