@@ -4,7 +4,7 @@ document.getElementById('homeButton').addEventListener("click",(homePage));
 document.getElementById('sessionButton').addEventListener("click",(sessionPage));
 
 const textFiles = ["Lore/Deco's Backstory.md", "Lore/Gordon's backstory.md", "Lore/Timmy's Backstory.md", "Lore/Jake Backstory First Draft.md", "Lore/James' Backstory.md", "Lore/Mark's Backstory.md", "Lore/Pierce Backstory.md", "Lore/SemajDream.md", "Lore/AngussDream.md", "Lore/HackDream.md", "Lore/MordosDream.md", "Lore/TimbleDream.md", "Lore/VeyronDream.md", "Lore/ZellicekDream.md", "Lore/A Message from Glassya.md", "Lore/newGlasyaMessage.md",
-     "Lore/Town Crier News BARRONIA.md"
+     "Lore/Copy of From Kids To Kings EDITOR.md", "Lore/Town Crier News BARRONIA.md", "Lore/ROYAL DECREE_ BARRONIA .md", "Lore/Coronation QnA.md", "Lore/The Mirror Wings.md", "Lore/Grand Barrett Palace_ Emergency Court Meeting.md", "Lore/Gavyn and Einar Meeting_ PALOMERAS.md", "Lore/Einar x Brozzerious_ Marble City.md"
 ];
 
 const output = document.getElementById("output");
