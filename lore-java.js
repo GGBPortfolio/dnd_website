@@ -45,8 +45,11 @@ function loreGridClick(num){
      .then(res => res.text())
      .then(text => {
           output.innerHTML = "<p>" + text + "</p>";
+          output.scrollTop = 0;
      });
    }  
+
+
 //NEW FUNCTION, converts .md to html//
 //DREAMS & PREMONITIONS//
 function newGridClick(num){
@@ -54,6 +57,7 @@ function newGridClick(num){
      .then(response => response.text())
      .then(text => {
      document.getElementById("output").innerHTML = marked.parse(text);
+     output.scrollTop = 0;
   }); 
 }
 
@@ -63,6 +67,7 @@ function newGridClick2(num){
      .then(response => response.text())
      .then(text => {
      document.getElementById("output2").innerHTML = marked.parse(text);
+     output2.scrollTop = 0;
   }); 
 }
 
@@ -72,6 +77,7 @@ function newGridClick3(num){
      .then(response => response.text())
      .then(text => {
      document.getElementById("output3").innerHTML = marked.parse(text);
+     output3.scrollTop = 0;
   }); 
 }
    

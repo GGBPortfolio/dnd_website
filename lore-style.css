@@ -81,9 +81,8 @@ h1{
     margin: 50px;
     margin-top: 15px;
     text-align: center;
-    
     height: 600px;
-    overflow-y: auto;
+
 }
 
 .script-box {
@@ -96,7 +95,7 @@ h1{
     margin: 50px;
     margin-top: 15px;
     height: 600px;
-    overflow-y: auto;
+    
 }
 
 .smaller-box {
@@ -148,4 +147,6 @@ h1{
 
 .lore-text{
     margin: 10px;
+    overflow-y: auto;
+    height: 590px;
 }
